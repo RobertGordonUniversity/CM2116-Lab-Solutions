@@ -1,0 +1,3 @@
+[submodule "src/lab2/CM2116-Lab2-Solutions"]
+	path = src/lab2/CM2116-Lab2-Solutions
+	url = https://github.com/RobertGordonUniversity/CM2116-Lab2-Solutions.git
